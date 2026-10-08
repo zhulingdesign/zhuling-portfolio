@@ -1,32 +1,32 @@
 export const projects = [
   {
     slug: "inspectica",
-    title: "AI-Enhanced B2B UX Redesign",
+    title: "AI-Powered Digital Twin Platform",
     cover: "/projects/inspectica/inspectica_cover.webp",
   },
   {
     slug: "yuu",
-    title: "yuu Transaction UX Design",
+    title: "Multi-Brand Transaction Experience",
     cover: "/projects/yuu/yuu_cover.webp",
   },
   {
     slug: "qyh-2",
-    title: "FD-UX Iteration for Business Goal",
+    title: "Data-Driven Growth & Product Strategy",
     cover: "/projects/qyh-2/qyh2_cover.webp",
   },
   {
     slug: "chicks",
-    title: "E-Commerce App UX for Chicks",
+    title: "E-Commerce Product Consulting",
     cover: "/projects/chicks/chicks_cover.webp",
   },
   {
     slug: "qyh-1",
-    title: "FD-UX End to End Project",
+    title: "0 to 1 Product Design & Launch",
     cover: "/projects/qyh-1/qyh1_cover.webp",
   },
   {
     slug: "oneplus",
-    title: "Weather UI for OnePlus",
+    title: "Award-Winning Mobile Experience",
     cover: "/projects/oneplus/oneplus_cover.webp",
   },
 ];
